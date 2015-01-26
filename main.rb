@@ -4,7 +4,6 @@ puts "Choose a level between 1-5 (one being most difficult, five being the easie
 answer = gets.to_i
 
 while chords.length < chords.length + 1
-
 	chords.each do |x| 
 	y = Random.rand(1..chords.length - 1)
 	puts chords[y]
