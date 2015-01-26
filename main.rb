@@ -1,4 +1,4 @@
-chords = ["A", "B", "C", "D", "E", "F", "G", "Am", "Bm", "Cm", "Dm", "Em", "Fm", "A7", "B7", "C7", D7, "E7", "F7", "G7" ]
+chords = ["A", "B", "C", "D", "E", "F", "G", "Am", "Bm", "Cm", "Dm", "Em", "Fm", "A7", "B7", "C7", "D7", "E7", "F7", "G7" ]
 
 puts "Choose a level between 1-5 (one being most difficult, five being the easiest)"
 answer = gets.to_i
